@@ -38,16 +38,15 @@ To build a structured and scalable system for managing electronic components, en
 
 ## Technology Stack
 
-Update this section according to the actual technologies used.
-
 | Layer | Technology |
 |---|---|
-| Frontend | [Add technology] |
-| Backend | [Add technology] |
-| Database | [Add database] |
-| Programming Languages | [Add languages] |
-| Hosting / Deployment | [Add platform] |
-| Tools | [Add development tools] |
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| Backend | Node.js, Express |
+| Database | SQLite |
+| Programming Languages | TypeScript, JavaScript, SQL |
+| AI / Machine Learning | Google Gemini API |
+| Hosting / Deployment | Vercel / Netlify (if deployed there) |
+| Tools | Git, GitHub, VS Code, npm |
 
 ## Project Structure
 
