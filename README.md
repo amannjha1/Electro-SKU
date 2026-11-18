@@ -118,13 +118,6 @@ The intended workflow of Electro-SKU is:
 4. **Record Management:** Maintain structured component information.
 5. **Tracking:** Retrieve and manage component records when required.
 
-## Screenshots
-
-Add screenshots of the actual application here.
-
-| Application Interface | Component Management |
-|---|---|
-| Add screenshot here | Add screenshot here |
 
 ## Project Goals
 
