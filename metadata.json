@@ -1,0 +1,6 @@
+{
+  "name": "ElectroSKU",
+  "description": "AI-Powered PCB Inspection & Intelligent Project Recommendation Platform — See the PCB. Understand the Components. Discover What You Can Build.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
